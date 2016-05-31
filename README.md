@@ -9,7 +9,7 @@ Download the .bat
 Place it in a convenient location (that you will hopefully never need to see again)
 
 Open command prompt
-Navigate to the directory with the .bat file  (hint: cd "paste_of_the_path"
+Navigate to the directory with the .bat file  (hint: cd "paste_of_the_path")
 Type: COPY MYBACKUP.BAT "%USERPROFILE%\SendTo"
 
 Now you can run the program at any time by right-clicking on the file, going to send-to, and selecting the program.
