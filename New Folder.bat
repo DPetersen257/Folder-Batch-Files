@@ -16,5 +16,4 @@ echo the newdir is %newdir%
 
 if not exist %newdir% mkdir %newdir%
 
-rem move /-Y "%~n1%~x1" %newdir%
 move /-Y "%subject%" %newdir%
